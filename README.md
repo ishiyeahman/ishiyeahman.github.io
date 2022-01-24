@@ -1,5 +1,3 @@
-<!-- # ishiyeahman.github.io -->
-
 # Profile
 
 Ryo Ishiyama.
