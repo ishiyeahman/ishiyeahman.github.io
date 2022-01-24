@@ -8,7 +8,7 @@ live in Kumamoto, Japan.
 ---
 
 ### Contact
-Feel free to text : hi17ishiyama@g.kumamoto-nct.ac.jp
+Gmail : hi17ishiyama@g.kumamoto-nct.ac.jp
 
 ---
 ### Education
