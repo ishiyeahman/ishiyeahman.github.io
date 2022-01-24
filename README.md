@@ -5,7 +5,7 @@
 Ryo Ishiyama.
 live in Kumamoto, Japan.
 ### Contact
-Feel free to text : hi17ishiyama@gmail.com
+Feel free to text : hi17ishiyama@g.kumamoto-nct.ac.jp
 
 ### Education
 #### Associate Degree of Engineering (Apr. 2017 - Mar. 2021)
