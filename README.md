@@ -1,4 +1,4 @@
-# 石山　遼 (Ryo Ishiyama)
+# 石山 遼  (Ryo Ishiyama)
 
 live in Kumamoto, Japan.
 
