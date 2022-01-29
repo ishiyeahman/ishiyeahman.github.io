@@ -14,7 +14,7 @@ Gmail : hi17ishiyama@g.kumamoto-nct.ac.jp
  * Thesis: A Study of Serching Safty Evacuation Routes Under Flood by SDA Alogorithm 
  * Department of Human-Oriented Information Systems Engineering
 
-#### Bachelor of Engineering in Computer Science (Apr. 2022 - Present)
+#### Bachelor of Engineering in Computer Science (Apr. 2022 - )
  * [Kyushu University](https://www.kyushu-u.ac.jp/ja/)
  * [Department of Electrical Engnieering and Computer Science, School of Engneering.](https://www.eecs.kyushu-u.ac.jp/)
  * Computer Engineering Course
