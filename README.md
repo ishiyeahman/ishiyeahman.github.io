@@ -1,6 +1,5 @@
-# Profile
+#　石山　遼 (Ryo Ishiyama)
 
-Ryo Ishiyama.
 live in Kumamoto, Japan.
 
 ---
