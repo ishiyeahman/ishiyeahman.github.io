@@ -1,0 +1,17 @@
+div.main-center{
+    margin: 2% 5% 5% 5% ;
+    padding: 5%;
+    border: solid;
+}
+
+img.icon {
+    width : 150px;
+    margin: 0% 5% 0% 0%;
+    
+    border-radius: 50%;
+}
+
+.plan{
+    color: rgba(126, 140, 140, 0.7);
+}
+
